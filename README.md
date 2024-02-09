@@ -1,4 +1,4 @@
-![Cover](./.github/cover.png)
+![Cover](./.github/notes.png)
 
 # NLW Expert (React)
 
