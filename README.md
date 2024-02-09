@@ -14,3 +14,4 @@ npm run dev
 ```
 
 Acesse http://localhost:5173 para visualizar a aplicação.
+Link do deploy: https://rooberttdev.github.io/nlw-expert-notes/
